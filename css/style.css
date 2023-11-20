@@ -1,5 +1,9 @@
 #intro {
   background-image: url("../img/max-duzij-qAjJk-un3BI-unsplash.jpg");
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow: hidden;
   height: 100vh;
 }
 
